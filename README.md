@@ -1,2 +1,4 @@
-# algorithms
-This is the practice algorithms
+# Algorithms
+
+## Linear Search
+1. Linear Search
